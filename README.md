@@ -1,1 +1,2 @@
-# An assortment of my python code/scripts
+# py
+An assortment of my python scripts
